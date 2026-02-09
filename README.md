@@ -24,11 +24,9 @@ All links redirect to **official career pages or verified hiring portals** — n
 
 Browse job opportunities by region:
 
-- 🇮🇳 [India](./india)
-- 🇪🇺 [Europe](./europe)
-- 🌍 **Middle East**
-  - 🌆 [Dubai](./middle-east/dubai)
-  - 🕌 [Saudi Arabia](./middle-east/saudi)
+- <img src="./assets/ind.png" width="18" />[India](./india)
+- <img src="./assets/eu.png" width="18" />[Europe](./europe)
+- <img src="./assets/flag-mdes.png" width="18" /> [Middle East](./middle-east)
 
 ---
 
