@@ -27,6 +27,7 @@ Browse job opportunities by region:
 - <img src="./assets/ind.png" width="18" />  [India](./india)
 - <img src="./assets/eu.png" width="18" />   [Europe](./europe)
 - <img src="./assets/flag-mdes.png" width="18" />  [Middle East](./middle-east)
+- 🏢 [Remote](./remote)
 
 ---
 
