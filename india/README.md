@@ -1,5 +1,5 @@
 
-# 🇮🇳 India – Data, ML & AI Roles
+# India – Data, ML & AI Roles
 
 > Curated list of companies hiring for **Data Science, Machine Learning, AI, Data Engineering, and Analytics** roles in India.
 
