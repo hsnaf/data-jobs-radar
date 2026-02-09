@@ -1,5 +1,5 @@
 
-# 🇪🇺 Europe – Data Jobs Radar
+# Europe – Data Jobs Radar
 
 > Curated list of companies hiring for **Data Science, Machine Learning, Applied AI, and Analytics roles** across Europe.
 
