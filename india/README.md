@@ -65,3 +65,4 @@
 |55 |   **Amgen** | https://careers.amgen.com/en | DS · Analytics | Pharma |
 |56 |  **AGDATA** | https://www.agdata.com/company/careers/#openings | ML Engineer | 5–8 YOE |
 |57 |   **SatSure** | https://www.linkedin.com/company/satsure/posts/ | DS · MLOps | 2+ YOE |
+|58 |   **ProcDNA** | https://www.procdna.com/careers/jobs | DS · MLops · DA · DE · Pythonfullstack | 1 or 3+ YOE |
