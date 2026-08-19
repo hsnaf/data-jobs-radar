@@ -67,3 +67,4 @@
 |57 |   **SatSure** | https://www.linkedin.com/company/satsure/posts/ | DS · MLOps | 2+ YOE |
 |58 |   **ProcDNA** | https://www.procdna.com/careers/jobs | DS · MLops · DA · DE · Pythonfullstack | 1 or 3+ YOE |
 |59 | dhiOmics Analytics Solutions (ADA) | https://www.dhiomics.com⁠ | DS · ML · AI · DA · DE · NLP · CV · Python | Fresher · 1+ YOE |
+|60 | NR Consulting | https://www.nrconsulting.com | DE · DS · DA · BI · ETL · Big Data · Cloud · Python · SQL | Fresher · 1+ YOE |
