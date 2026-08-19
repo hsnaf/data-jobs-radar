@@ -73,3 +73,4 @@
 |63 | **RBG.AI** | https://rbg.ai/ | AI · ML · DS · DE · NLP · CV · GenAI · MLOps · Python · LLM · Multimodal AI | Fresher · 1+ YOE |
 |64 | **Affine** | https://affine.ai/ | DS · ML · AI · GenAI · DA · DE · MLOps · BI · Python · SQL · PySpark · Databricks · Cloud · LLM · RAG | 3+ YOE |
 |65 | **Proxenix** | https://www.proxenix.com/ | DS · DA · ML · Python · SQL · NLP · Analytics · Full Stack | Fresher · Internship |
+|66 | **Onelogica** | https://www.onelogica.com/careers/ | DS · ML · AI · DE · GenAI · NLP · Python · PyTorch · PySpark · SQL · RAG · Databricks · Snowflake | 0–1 YOE · Internship · Noida |
