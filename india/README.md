@@ -68,3 +68,4 @@
 |58 |   **ProcDNA** | https://www.procdna.com/careers/jobs | DS · MLops · DA · DE · Pythonfullstack | 1 or 3+ YOE |
 |59 | dhiOmics Analytics Solutions (ADA) | https://www.dhiomics.com⁠ | DS · ML · AI · DA · DE · NLP · CV · Python | Fresher · 1+ YOE |
 |60 | NR Consulting | https://www.nrconsulting.com | DE · DS · DA · BI · ETL · Big Data · Cloud · Python · SQL | Fresher · 1+ YOE |
+|61 | **GeakMinds** | https://geakminds.com/services/data-and-ai/ | DS · ML · AI · DA · DE · GenAI · NLP · CV · Python · SQL · PySpark · Power BI · Tableau · Cloud | Entry-level · 5+ YOE |
