@@ -75,3 +75,4 @@
 |65 | **Proxenix** | https://www.proxenix.com/ | DS · DA · ML · Python · SQL · NLP · Analytics · Full Stack | Fresher · Internship |
 |66 | **Onelogica** | https://www.onelogica.com/careers/ | DS · ML · AI · DE · GenAI · NLP · Python · PyTorch · PySpark · SQL · RAG · Databricks · Snowflake | 0–1 YOE · Internship · Noida |
 |67 | **Equifax India** | https://careers.equifax.com/en/locations/bangalore/ | DS · ML · AI · DA · DE · BI · GenAI · Python · SQL · PySpark · Spark · GCP · Azure · Databricks · Power BI | Entry-level · 3+ YOE |
+|68 | **Arcana** | https://arcana.io/ | DS · DA · AI · ML · DE · Python · SQL · Spark · Airflow · BigQuery · ClickHouse · GenAI · AI Agents | 3+ YOE · Bangalore · Remote |
