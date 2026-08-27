@@ -77,3 +77,4 @@
 |67 | **Equifax India** | https://careers.equifax.com/en/locations/bangalore/ | DS · ML · AI · DA · DE · BI · GenAI · Python · SQL · PySpark · Spark · GCP · Azure · Databricks · Power BI | Entry-level · 3+ YOE |
 |68 | **Arcana** | https://arcana.io/ | DS · DA · AI · ML · DE · Python · SQL · Spark · Airflow · BigQuery · ClickHouse · GenAI · AI Agents | 3+ YOE · Bangalore · Remote |
 |69 | Jacobs | https://www.jacobs.com/ | DS · DA · AI · ML · DE · Python · SQL · Cloud · Analytics · Predictive Modeling | 0–2 YOE · 2–5 YOE · 5+ YOE · India · Remote |
+|70 | Mercer | https://www.mercer.com/⁠ | DS · DA · AI · ML · Analytics · Python · SQL · Power BI · Tableau · Statistics · Predictive Modeling | 0–2 YOE · 2–5 YOE · 5+ YOE · India · Remote |
