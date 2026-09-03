@@ -79,3 +79,4 @@
 |69 | **Jacobs** | https://www.jacobs.com/ | DS · DA · AI · ML · DE · Python · SQL · Cloud · Analytics · Predictive Modeling | 0–2 YOE · 2–5 YOE · 5+ YOE · India · Remote |
 |70 | **Mercer** | https://www.mercer.com/⁠ | DS · DA · AI · ML · Analytics · Python · SQL · Power BI · Tableau · Statistics · Predictive Modeling | 0–2 YOE · 2–5 YOE · 5+ YOE · India · Remote |
 |71 | **Trademo** | https://www.trademo.com/ | DS · DA · AI · ML · NLP · GenAI · LLM · Python · SQL · RAG · Analytics | 0–2 YOE · 2–5 YOE · 5+ YOE · India · Gurugram · Remote |
+|72 | MetLife | https://www.metlife.com/ | DS · DA · AI · ML · GenAI · Analytics · Data Engineering · NLP | 0–2 YOE · 2–5 YOE · 5+ YOE · India · Hyderabad · Pune · Noida · Hybrid |
